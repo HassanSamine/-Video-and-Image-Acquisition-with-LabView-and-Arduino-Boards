@@ -1,2 +1,4 @@
 # -Video-and-Image-Acquisition-with-LabView-and-Arduino-Boards
-This project integrates video/image capture, LabVIEW interfacing, and Arduino control for real-time processing. It demonstrates expertise in LabVIEW, Arduino, and tech integration for data acquisition.
+
+#Overview
+This project involves developing a system capable of capturing video and images, interfacing them with LabVIEW, and utilizing Arduino boards for control and data acquisition. This innovative project combines hardware and software integration to create a versatile platform for real-time image processing and analysis. It showcases proficiency in LabView programming, Arduino interfacing, and the ability to integrate various technologies for practical applications in data acquisition and automation.
